@@ -28,7 +28,7 @@ float potencia(float base, int exponente) {
 
 int main() {
     string x, y;
-    double resultao, x1, x2;
+    double resultado, x1, x2;
     char op;
     int valido = 1;
     int entero = 1;
