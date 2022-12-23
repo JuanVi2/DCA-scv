@@ -14,4 +14,4 @@ Se ha añadido un error al código de forma intencionada y usando git bisect se 
 Esto se puede ver en la imagen "Bisect.png" en la carpeta imagenes.
 
 ~ Hooks
-El hook que se ha utilizado es el de commit-msg. Hay un ejemplo en la carpeta de imagenes.
+El hook que se ha utilizado es el de commit-msg. Hay un ejemplo en "Hooks.png" en la carpeta de imagenes.
